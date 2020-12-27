@@ -21,3 +21,16 @@ $ git commit -am "Commit Name"
 
 $ git push -u origin your_branch_name
 
+## Add multiple branch:
+
+$ git branch
+
+$ git checkout Your_branch_name
+
+## git reset 
+
+$ git reset --hard
+
+
+
+
