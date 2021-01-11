@@ -31,10 +31,15 @@ $ git checkout Your_branch_name
 
 $ git reset --hard
 
-# GIT PUSH ON HEROKU:
+# GIT PUSH DJANGO ON HEROKU :
 - git add .
 - git commit -m "commit name"
 - git push heroku master
+- heroku run python manage.py makemigrations
+- heroku run python manage.py migrate
+- heroku run python manage.py createsuperuser
+- heroku open 
+
 
 
 
