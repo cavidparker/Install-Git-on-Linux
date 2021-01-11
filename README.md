@@ -31,7 +31,7 @@ $ git checkout Your_branch_name
 
 $ git reset --hard
 
-# GIT PUSH DJANGO ON HEROKU :
+# Git PUSH DJANGO ON HEROKU :
 - git add .
 - git commit -m "commit name"
 - git push heroku master
