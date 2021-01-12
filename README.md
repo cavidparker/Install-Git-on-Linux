@@ -31,6 +31,10 @@ $ git checkout Your_branch_name
 
 $ git reset --hard
 
+## git delete 
+
+$ rm -rf .git
+
 # Git PUSH DJANGO ON HEROKU :
 - git add .
 - git commit -m "commit name"
