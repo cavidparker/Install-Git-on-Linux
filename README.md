@@ -43,6 +43,7 @@ $ rm -rf .git
 - heroku run python manage.py migrate
 - heroku run python manage.py createsuperuser
 - heroku open
+- git push -f heroku master (for change the commit)
 
 # Push old origin:
 - git push old-origin project_name
