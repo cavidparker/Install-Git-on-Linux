@@ -21,6 +21,8 @@ $ git commit -am "Commit Name"
 
 $ git push -u origin your_branch_name
 
+$ git merge your_branch_name
+
 ## Add multiple branch:
 
 $ git branch
