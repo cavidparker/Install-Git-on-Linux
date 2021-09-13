@@ -35,7 +35,7 @@ $ git reset --hard
 
 ## How to delete git branch
 
-$ git branch -d GCP_cloud
+$ git branch -d Your_branch_name
 
 ## git delete 
 
